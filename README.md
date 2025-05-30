@@ -1,10 +1,17 @@
-<!-- Header with Typing Animation -->
-<h1 align="center">Hey there! 👋 I'm Aparajita Vaish</h1>
+<!-- Hero Header with Animated Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00ADB5&center=true&width=435&lines=AI+%2F+ML+Engineer;Full-Stack+Developer;Published+Researcher;Healthcare+AI+Enthusiast;Let's+Build+Together+💡" alt="Typing animation" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
+</p>
+<h1 align="center">Hi, I'm <span style="color:#00ADB5">Aparajita Vaish</span> ✨</h1>
+<p align="center">
+  <em>AI/ML Engineer • Full-Stack Developer • Researcher</em>
 </p>
 
-<!-- Badges -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+the+future+with+AI+%26+Code+%e2%9a%a1%ef%b8%8f;Passionate+about+AI+in+Healthcare+%f0%9f%a7%a0;Researcher+%2b+Creator+%2b+Tech+Explorer" alt="Typing animation" />
+</p>
+
+<!-- Profile Links -->
 <p align="center">
   <a href="https://aparajitavaish-portfolio.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Now-00adb5?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -25,17 +32,18 @@
 
 ---
 
-### 🧠 About Me
+<!-- Redesigned Profile Section -->
+### 👨‍💻 Who Am I?
 
 ```yaml
 Name: Aparajita Vaish
-Title: AI/ML Engineer | Full Stack Developer | Researcher
 Location: Raipur, Chhattisgarh, India 🇮🇳
+Current Role: AI/ML Engineer | Full Stack Developer
 Education: B.Tech in Computer Science Engineering (SSIPMT, 2025)
-Interests: Deep Learning · Healthcare AI · Time-Series Forecasting · Web Systems
+Passion: Solving real-world problems at the intersection of medicine & machine learning
+Interests: Deep Learning, Healthcare AI, Time-Series Forecasting, Web Architecture
 ```
 
----
 
 ### 🧪 Research Publications
 
