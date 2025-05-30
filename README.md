@@ -27,54 +27,54 @@
 
 ### 🧠 About Me
 
-
+```yaml
 Name: Aparajita Vaish
 Title: AI/ML Engineer | Full Stack Developer | Researcher
 Location: Raipur, Chhattisgarh, India 🇮🇳
 Education: B.Tech in Computer Science Engineering (SSIPMT, 2025)
 Interests: Deep Learning · Healthcare AI · Time-Series Forecasting · Web Systems
-
+```
 
 ---
 
 ### 🧪 Research Publications
 
-* 🧬 [Cassava Leaf Disease Detection using Deep Learning](https://ieeexplore.ieee.org/document/10984951) – Published at IIITM Gwalior
+- 🧬 [Cassava Leaf Disease Detection using Deep Learning](https://ieeexplore.ieee.org/document/10984951) – Published at IIITM Gwalior  
   *Focused on real-time disease classification using CNN and Transfer Learning.*
 
-* 🩺 [Diabetic Retinopathy Classification using Deep Neural Networks](https://ieeexplore.ieee.org/document/10985144)
+- 🩺 [Diabetic Retinopathy Classification using Deep Neural Networks](https://ieeexplore.ieee.org/document/10985144)  
   *AI-based eye disease classifier with an interactive front end, chatbot, and dashboards.*
 
-* 🧑‍🔬 [View My IEEE Xplore Author Profile](https://ieeexplore.ieee.org/author/268009315483884)
+- 🧑‍🔬 [View My IEEE Xplore Author Profile](https://ieeexplore.ieee.org/author/268009315483884)
 
 ---
 
 ### 🚀 Highlighted Projects
 
-| Project                                                                                             | Description                                                    | Tools                       |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------- |
-| 🌿 [Cassava Disease Classification](https://github.com/14Aparajita/casssava-disease-classification) | Real-time plant disease detector using CNN + Transfer Learning | Python, Flask, TensorFlow   |
-| 🩺 Diabetic Retinopathy Detector                                                                    | Deep learning with UI for prediction, chatbot & dashboard      | Python, Flask, DL, HTML/CSS |
-| 💓 [LifeSupport – Organ Donation Platform](https://github.com/14Aparajita/Lifesupport)              | Full-stack organ donation system with multiple user roles      | Node.js, MySQL, Express     |
-| 🧪 Metallurgical Coal Analysis                                                                      | Geo & statistical analysis of Indian coal data                 | Pandas, Matplotlib          |
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🌿 [Cassava Disease Classification](https://github.com/14Aparajita/casssava-disease-classification) | Real-time plant disease detector using CNN + Transfer Learning | Python, Flask, TensorFlow |
+| 🩺 Diabetic Retinopathy Detector | Deep learning with UI for prediction, chatbot & dashboard | Python, Flask, DL, HTML/CSS |
+| 💓 [LifeSupport – Organ Donation Platform](https://github.com/14Aparajita/Lifesupport) | Full-stack organ donation system with multiple user roles | Node.js, MySQL, Express |
+| 🧪 Metallurgical Coal Analysis | Geo & statistical analysis of Indian coal data | Pandas, Matplotlib |
 
 ---
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Python, C, SQL, JavaScript, HTML, CSS
-* **Frameworks:** Flask, Node.js, Express, MongoDB, MySQL
-* **ML/DL Tools:** TensorFlow, PyTorch, Keras, Scikit-learn
-* **Other Tools:** Git, VSCode, Postman, Vercel, Heroku
+- **Languages:** Python, C, SQL, JavaScript, HTML, CSS  
+- **Frameworks:** Flask, Node.js, Express, MongoDB, MySQL  
+- **ML/DL Tools:** TensorFlow, PyTorch, Keras, Scikit-learn  
+- **Other Tools:** Git, VSCode, Postman, Vercel, Heroku  
 
 ---
 
 ### 🎓 Achievements & Certifications
 
-* 🧠 Published 2 IEEE peer-reviewed research papers
-* 📜 Certified in Data Analytics (NPTEL) & Remote Sensing (ISRO)
-* 🏅 Top academic performer, school rank holder, speaker & artist
-* 🎨 Skilled in Madhubani art, painting, and sketching
+- 🧠 Published 2 IEEE peer-reviewed research papers  
+- 📜 Certified in Data Analytics (NPTEL) & Remote Sensing (ISRO)  
+- 🏅 Top academic performer, school rank holder, speaker & artist  
+- 🎨 Skilled in Madhubani art, painting, and sketching  
 
 ---
 
@@ -108,14 +108,3 @@ Interests: Deep Learning · Healthcare AI · Time-Series Forecasting · Web Syst
 If you're working in **AI for healthcare**, **deep learning**, or **intelligent full-stack solutions**, I’d love to collaborate or chat. Drop a message anytime via GitHub or LinkedIn!
 
 ---
-
-```
-
----
-
-### ✅ Next Suggestions:
-- Add Lottie animations (e.g., code monkey, AI brain) using custom `HTML` tags and hosted JSONs (if you'd like that visual flair).
-- Consider turning this into a personal GitHub profile website using this README as base content.
-
-Let me know if you'd like the README as a downloadable `.md` file or want a visual preview setup with live animation effects!
-```
