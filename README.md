@@ -1,6 +1,6 @@
-<!-- Hero Header with Animated Greeting -->
+<!-- Hero Header with Smaller Animated Greeting -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
 </p>
 <h1 align="center">Hi, I'm <span style="color:#00ADB5">Aparajita Vaish</span> ✨</h1>
 <p align="center">
@@ -11,18 +11,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+the+future+with+AI+%26+Code+%e2%9a%a1%ef%b8%8f;Passionate+about+AI+in+Healthcare+%f0%9f%a7%a0;Researcher+%2b+Creator+%2b+Tech+Explorer" alt="Typing animation" />
 </p>
 
-<!-- Profile Links -->
+<!-- Combined Profile Links -->
 <p align="center">
-  <a href="https://aparajitavaish-portfolio.vercel.app/" target="_blank">
+  <a href="https://aparajitavaish-portfolio.vercel.app/" target="_blank" style="margin-right: 10px;">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Now-00adb5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/14Aparajita" target="_blank">
+  <a href="https://github.com/14Aparajita" target="_blank" style="margin-right: 10px;">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-14Aparajita-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aparajita-vaish-26610b2b0/" target="_blank">
+  <a href="https://www.linkedin.com/in/aparajita-vaish-26610b2b0/" target="_blank" style="margin-right: 10px;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://orcid.org/0009-0003-7934-0349" target="_blank">
+  <a href="https://orcid.org/0009-0003-7934-0349" target="_blank" style="margin-right: 10px;">
     <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0003--7934--0349-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
   <a href="https://ieeexplore.ieee.org/author/268009315483884" target="_blank">
@@ -32,27 +32,17 @@
 
 ---
 
-<!-- Redesigned Profile Section -->
-### 👨‍💻 Who Am I?
+<!-- Professional Summary -->
+### 👩‍💼 Professional Summary
 
-```yaml
-Name: Aparajita Vaish
-Location: Raipur, Chhattisgarh, India 🇮🇳
-Current Role: AI/ML Engineer | Full Stack Developer
-Education: B.Tech in Computer Science Engineering (SSIPMT, 2025)
-Passion: Solving real-world problems at the intersection of medicine & machine learning
-Interests: Deep Learning, Healthcare AI, Time-Series Forecasting, Web Architecture
-```
+AI/ML Engineer and Full-Stack Developer specializing in healthcare-focused deep learning applications. Passionate about bridging the gap between advanced machine learning research and real-world medical solutions. Experienced in developing scalable web systems, interactive AI tools, and publishing peer-reviewed research in plant disease and diabetic retinopathy classification.
 
+---
 
 ### 🧪 Research Publications
 
-- 🧬 [Cassava Leaf Disease Detection using Deep Learning](https://ieeexplore.ieee.org/document/10984951) – Published at IIITM Gwalior  
-  *Focused on real-time disease classification using CNN and Transfer Learning.*
-
-- 🩺 [Diabetic Retinopathy Classification using Deep Neural Networks](https://ieeexplore.ieee.org/document/10985144)  
-  *AI-based eye disease classifier with an interactive front end, chatbot, and dashboards.*
-
+- 🧬 [Cassava Leaf Disease Detection using Deep Learning](https://ieeexplore.ieee.org/document/10984951) – Real-time disease classification with CNN and Transfer Learning.
+- 🩺 [Diabetic Retinopathy Classification using Deep Neural Networks](https://ieeexplore.ieee.org/document/10985144) – AI-powered eye disease classifier with chatbot and dashboards.
 - 🧑‍🔬 [View My IEEE Xplore Author Profile](https://ieeexplore.ieee.org/author/268009315483884)
 
 ---
@@ -114,5 +104,3 @@ Interests: Deep Learning, Healthcare AI, Time-Series Forecasting, Web Architectu
 ### ☕ Let's Connect!
 
 If you're working in **AI for healthcare**, **deep learning**, or **intelligent full-stack solutions**, I’d love to collaborate or chat. Drop a message anytime via GitHub or LinkedIn!
-
----
