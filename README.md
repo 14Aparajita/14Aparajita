@@ -1,38 +1,37 @@
-<!-- Hero Header with Smaller Animated Greeting -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
-</p>
-<h1 align="center">Hi, I'm <span style="color:#00ADB5">Aparajita Vaish</span> ✨</h1>
-<p align="center">
-  <em>AI/ML Engineer • Full-Stack Developer • Researcher</em>
+<p align="center" style="font-size: 28px; font-weight: bold; color: #00ADB5;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle; margin-right: 8px;" />
+  Hi, I'm Aparajita Vaish ✨
 </p>
 
-<p align="center">
+<p align="center" style="font-style: italic; margin-top: -10px;">
+  AI/ML Engineer • Full-Stack Developer • Researcher
+</p>
+
+<p align="center" style="margin-top: 10px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+the+future+with+AI+%26+Code+%e2%9a%a1%ef%b8%8f;Passionate+about+AI+in+Healthcare+%f0%9f%a7%a0;Researcher+%2b+Creator+%2b+Tech+Explorer" alt="Typing animation" />
 </p>
 
-<!-- Combined Profile Links -->
-<p align="center">
-  <a href="https://aparajitavaish-portfolio.vercel.app/" target="_blank" style="margin-right: 10px;">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Now-00adb5?style=for-the-badge&logo=vercel&logoColor=white" />
+<!-- Profile icons -->
+<p align="center" style="margin-top: 15px;">
+  <a href="https://aparajitavaish-portfolio.vercel.app/" target="_blank" aria-label="Portfolio" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vercel.svg" alt="Portfolio" width="28" height="28" />
   </a>
-  <a href="https://github.com/14Aparajita" target="_blank" style="margin-right: 10px;">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-14Aparajita-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/14Aparajita" target="_blank" aria-label="GitHub" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="28" height="28" />
   </a>
-  <a href="https://www.linkedin.com/in/aparajita-vaish-26610b2b0/" target="_blank" style="margin-right: 10px;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aparajita-vaish-26610b2b0/" target="_blank" aria-label="LinkedIn" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="28" height="28" />
   </a>
-  <a href="https://orcid.org/0009-0003-7934-0349" target="_blank" style="margin-right: 10px;">
-    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0003--7934--0349-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  <a href="https://orcid.org/0009-0003-7934-0349" target="_blank" aria-label="ORCID" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/orcid.svg" alt="ORCID" width="28" height="28" />
   </a>
-  <a href="https://ieeexplore.ieee.org/author/268009315483884" target="_blank">
-    <img alt="IEEE" src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+  <a href="https://ieeexplore.ieee.org/author/268009315483884" target="_blank" aria-label="IEEE" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ieee.svg" alt="IEEE" width="28" height="28" />
   </a>
 </p>
 
 ---
 
-<!-- Professional Summary -->
 ### 👩‍💼 Professional Summary
 
 AI/ML Engineer and Full-Stack Developer specializing in healthcare-focused deep learning applications. Passionate about bridging the gap between advanced machine learning research and real-world medical solutions. Experienced in developing scalable web systems, interactive AI tools, and publishing peer-reviewed research in plant disease and diabetic retinopathy classification.
