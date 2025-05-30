@@ -1,18 +1,3 @@
-Here's a **well-structured, professional, animated, and fully integrated README.md** file for your GitHub profile. It includes:
-
-* Animated typing effect
-* Interactive badges for **Portfolio**, **GitHub**, **LinkedIn**, **ORCID**, and **IEEE**
-* Research paper links
-* Projects with icons
-* GitHub stats + activity streaks
-* Quote generator animation
-* Responsive, visually attractive layout
-
----
-
-### ✅ Copy-paste this into your GitHub `README.md` file:
-
-````markdown
 <!-- Header with Typing Animation -->
 <h1 align="center">Hey there! 👋 I'm Aparajita Vaish</h1>
 <p align="center">
@@ -42,13 +27,13 @@ Here's a **well-structured, professional, animated, and fully integrated README.
 
 ### 🧠 About Me
 
-```yaml
+
 Name: Aparajita Vaish
 Title: AI/ML Engineer | Full Stack Developer | Researcher
 Location: Raipur, Chhattisgarh, India 🇮🇳
 Education: B.Tech in Computer Science Engineering (SSIPMT, 2025)
 Interests: Deep Learning · Healthcare AI · Time-Series Forecasting · Web Systems
-````
+
 
 ---
 
