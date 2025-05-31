@@ -1,6 +1,7 @@
 <!-- Header -->
+
 <h1 align="center">
-  Hey there! I'm <span style="color:#00ADB5;">Aparajita Vaish</span> 👋
+  Hey there! I'm <span style="color:#00ADB5;">Aparajita Vaish</span> <span>&#128075;</span>
 </h1>
 
 <p align="center">
@@ -11,7 +12,6 @@
   <em>Turning real-world healthcare problems into intelligent solutions using AI and code.</em>
 </p>
 
----
 ---
 
 ### 👩‍💼 Professional Summary
@@ -56,42 +56,32 @@ AI/ML Engineer and Full-Stack Developer specializing in healthcare-focused deep 
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
-
-
+---
 
 ### 🧪 Research Publications
 
-- 🧬 [Cassava Leaf Disease Detection using Deep Learning](https://ieeexplore.ieee.org/document/10984951) – Real-time disease classification with CNN and Transfer Learning.
-- 🩺 [Diabetic Retinopathy Classification using Deep Neural Networks](https://ieeexplore.ieee.org/document/10985144) – AI-powered eye disease classifier with chatbot and dashboards.
+* 🧬 [Cassava Leaf Disease Detection using Deep Learning](https://ieeexplore.ieee.org/document/10984951) – Real-time disease classification with CNN and Transfer Learning.
+* 🧪 [Diabetic Retinopathy Classification using Deep Neural Networks](https://ieeexplore.ieee.org/document/10985144) – AI-powered eye disease classifier with chatbot and dashboards.
 
 ---
 
 ### 🚀 Highlighted Projects
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🌿 [Cassava Disease Classification](https://github.com/14Aparajita/casssava-disease-classification) | Real-time plant disease detector using CNN + Transfer Learning | Python, Flask, TensorFlow |
-| 🩺 Diabetic Retinopathy Detector | Deep learning with UI for prediction, chatbot & dashboard | Python, Flask, DL, HTML/CSS |
-| 💓 [LifeSupport – Organ Donation Platform](https://github.com/14Aparajita/Lifesupport) | Full-stack organ donation system with multiple user roles | Node.js, MySQL, Express |
-| 🧪 Metallurgical Coal Analysis | Geo & statistical analysis of Indian coal data | Pandas, Matplotlib |
+| Project                                                                                             | Description                                                    | Tools                       |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------- |
+| 🌿 [Cassava Disease Classification](https://github.com/14Aparajita/casssava-disease-classification) | Real-time plant disease detector using CNN + Transfer Learning | Python, Flask, TensorFlow   |
+| 🧪 Diabetic Retinopathy Detector                                                                    | Deep learning with UI for prediction, chatbot & dashboard      | Python, Flask, DL, HTML/CSS |
+| 💓 [LifeSupport – Organ Donation Platform](https://github.com/14Aparajita/Lifesupport)              | Full-stack organ donation system with multiple user roles      | Node.js, MySQL, Express     |
+| 🧪 Metallurgical Coal Analysis                                                                      | Geo & statistical analysis of Indian coal data                 | Pandas, Matplotlib          |
 
-<!-----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Python, C, SQL, JavaScript, HTML, CSS  
-- **Frameworks:** Flask, Node.js, Express, MongoDB, MySQL  
-- **ML/DL Tools:** TensorFlow, PyTorch, Keras, Scikit-learn  
-- **Other Tools:** Git, VSCode, Postman, Vercel, Heroku  
-
---- -->
+---
 
 ### 🎓 Achievements & Certifications
 
-- 🧠 Published 2 IEEE peer-reviewed research papers  
-- 📜 Certified in Data Analytics (NPTEL) & Remote Sensing (ISRO)  
-- 🏅 Top academic performer, school rank holder, speaker & artist  
-- 🎨 Skilled in Madhubani art, painting, and sketching  
+* 🧠 Published 2 IEEE peer-reviewed research papers
+* 📜 Certified in Data Analytics (NPTEL) & Remote Sensing (ISRO)
+* 🏅 Top academic performer, school rank holder, speaker & artist
+* 🎨 Skilled in Madhubani art, painting, and sketching
 
 ---
 
