@@ -1,37 +1,17 @@
-<p align="center" style="font-size: 28px; font-weight: bold; color: #00ADB5;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  Hi, I'm Aparajita Vaish ✨
+<!-- Header -->
+<h1 align="center">
+  Hey there! I'm <span style="color:#00ADB5;">Aparajita Vaish</span> 👋
+</h1>
+
+<p align="center">
+  🎓 AI/ML Engineer • 💻 Full-Stack Developer • 📚 Researcher
 </p>
 
-<p align="center" style="font-style: italic; margin-top: -10px;">
-  AI/ML Engineer • Full-Stack Developer • Researcher
+<p align="center">
+  <em>Turning real-world healthcare problems into intelligent solutions using AI and code.</em>
 </p>
 
-<h1>Hey there!, I'm <a href="#">Aparajita Vaish</a> great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
-<p align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+the+future+with+AI+%26+Code+%e2%9a%a1%ef%b8%8f;Passionate+about+AI+in+Healthcare+%f0%9f%a7%a0;Researcher+%2b+Creator+%2b+Tech+Explorer" alt="Typing animation" />
-</p>
-
-<!-- Profile icons -->
-<p align="center" style="margin-top: 15px;">
-  <a href="https://aparajitavaish-portfolio.vercel.app/" target="_blank" aria-label="Portfolio" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vercel.svg" alt="Portfolio" width="28" height="28" />
-  </a>
-  <a href="https://github.com/14Aparajita" target="_blank" aria-label="GitHub" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="28" height="28" />
-  </a>
-  <a href="https://www.linkedin.com/in/aparajita-vaish-26610b2b0/" target="_blank" aria-label="LinkedIn" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="28" height="28" />
-  </a>
-  <a href="https://orcid.org/0009-0003-7934-0349" target="_blank" aria-label="ORCID" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/orcid.svg" alt="ORCID" width="28" height="28" />
-  </a>
-  <a href="https://ieeexplore.ieee.org/author/268009315483884" target="_blank" aria-label="IEEE" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ieee.svg" alt="IEEE" width="28" height="28" />
-  </a>
-</p>
-
+---
 ---
 
 ### 👩‍💼 Professional Summary
@@ -40,11 +20,49 @@ AI/ML Engineer and Full-Stack Developer specializing in healthcare-focused deep 
 
 ---
 
+### 🌐 Profiles
+
+<p align="center">
+  <a href="https://aparajitavaish-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/14Aparajita" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aparajita-vaish-26610b2b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0003-7934-0349" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/author/268009315483884" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
+
+
+
+
 ### 🧪 Research Publications
 
 - 🧬 [Cassava Leaf Disease Detection using Deep Learning](https://ieeexplore.ieee.org/document/10984951) – Real-time disease classification with CNN and Transfer Learning.
 - 🩺 [Diabetic Retinopathy Classification using Deep Neural Networks](https://ieeexplore.ieee.org/document/10985144) – AI-powered eye disease classifier with chatbot and dashboards.
-- 🧑‍🔬 [View My IEEE Xplore Author Profile](https://ieeexplore.ieee.org/author/268009315483884)
 
 ---
 
@@ -57,7 +75,7 @@ AI/ML Engineer and Full-Stack Developer specializing in healthcare-focused deep 
 | 💓 [LifeSupport – Organ Donation Platform](https://github.com/14Aparajita/Lifesupport) | Full-stack organ donation system with multiple user roles | Node.js, MySQL, Express |
 | 🧪 Metallurgical Coal Analysis | Geo & statistical analysis of Indian coal data | Pandas, Matplotlib |
 
----
+<!-----
 
 ### 🛠️ Tech Stack
 
@@ -66,7 +84,7 @@ AI/ML Engineer and Full-Stack Developer specializing in healthcare-focused deep 
 - **ML/DL Tools:** TensorFlow, PyTorch, Keras, Scikit-learn  
 - **Other Tools:** Git, VSCode, Postman, Vercel, Heroku  
 
----
+--- -->
 
 ### 🎓 Achievements & Certifications
 
