@@ -7,6 +7,8 @@
   AI/ML Engineer • Full-Stack Developer • Researcher
 </p>
 
+<h1>Hey there!, I'm <a href="#">Aparajita Vaish</a> great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
 <p align="center" style="margin-top: 10px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+the+future+with+AI+%26+Code+%e2%9a%a1%ef%b8%8f;Passionate+about+AI+in+Healthcare+%f0%9f%a7%a0;Researcher+%2b+Creator+%2b+Tech+Explorer" alt="Typing animation" />
 </p>
