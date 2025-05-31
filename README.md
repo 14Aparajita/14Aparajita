@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  🎓 AI/ML Engineer • 💻 Full-Stack Developer • 📚 Researcher
+  🎓 AI/ML Engineer • 📚 Researcher • 💻 Full-Stack Developer 
 </p>
 
 <p align="center">
