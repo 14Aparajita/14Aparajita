@@ -35,6 +35,9 @@ AI/ML Engineer and Full-Stack Developer specializing in healthcare-focused deep 
   <a href="https://orcid.org/0009-0003-7934-0349" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
+  <a href="https://scholar.google.com/citations?user=1y1WlSUAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
   <a href="https://ieeexplore.ieee.org/author/268009315483884" target="_blank">
     <img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
   </a>
@@ -67,8 +70,11 @@ AI/ML Engineer and Full-Stack Developer specializing in healthcare-focused deep 
 
 ### 🧪 Research Publications
 
-* 🧬 [Cassava Leaf Disease Detection using Deep Learning](https://ieeexplore.ieee.org/document/10984951) – Real-time disease classification with CNN and Transfer Learning.
-* 🧪 [Diabetic Retinopathy Classification using Deep Neural Networks](https://ieeexplore.ieee.org/document/10985144) – AI-powered eye disease classifier with chatbot and dashboards.
+* 🧬 [An EfficientNet-B3 Based Framework for Automated Multi-Class Crop Identification in Orthomosaic Maps](https://ieeexplore.ieee.org/document/11648695) – Automated crop identification using EfficientNet-B3 on orthomosaic imagery.
+* 🤖 Shift-Aware Meta-Reinforcement Learning for Robust Auto-Scaling in Serverless Clouds – Robust serverless auto-scaling under distribution shifts using meta-reinforcement learning.
+* 🩺 [A Smartphone-Based Framework for Cuffless Blood Pressure Estimation Using PPG](https://ieeexplore.ieee.org/document/11363759) – Smartphone-based cuffless blood pressure estimation using photoplethysmography (PPG).
+* 🧪 [Improving Classification Accuracy For Diabetic Retinopathy With Deep Learning](https://ieeexplore.ieee.org/document/10985144) – Deep learning-based diabetic retinopathy classification for automated eye disease detection.
+* 🧬 [Cassava Disease Classification with Mobittention Architecture](https://ieeexplore.ieee.org/document/10984951) – Cassava leaf disease classification using a lightweight Mobittention-based deep learning architecture.
 
 ---
 
@@ -85,7 +91,7 @@ AI/ML Engineer and Full-Stack Developer specializing in healthcare-focused deep 
 
 ### 🎓 Achievements & Certifications
 
-* 🧠 Published 2 IEEE peer-reviewed research papers
+* 🧠 Published 5 IEEE peer-reviewed research papers
 * 📜 Certified in Data Analytics (NPTEL) & Remote Sensing (ISRO)
 * 🏅 Top academic performer, school rank holder, speaker & artist
 * 🎨 Skilled in Madhubani art, painting, and sketching
