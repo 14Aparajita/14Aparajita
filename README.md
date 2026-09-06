@@ -84,11 +84,11 @@ AI/ML Engineer and Full-Stack Developer specializing in healthcare-focused deep 
 | --- | --- | --- |
 | 🧬 [SynthMed: Knowledge-Grounded Synthetic Medical Data Generation](https://huggingface.co/spaces/14Aparajita/Synthmed) | Knowledge-grounded synthetic medical data generation for diabetic retinopathy using RAG, clinical metadata synthesis, schema validation, and diffusion-based image generation. | Python, PyTorch, RAG, FAISS, Diffusion Models, LLMs |
 | 🤖 [Multi-Agent RAG Document Chat Assistant](https://multi-agent-rag-app.streamlit.app/) | Multi-agent PDF question-answering system with query optimization, semantic retrieval, reasoning, answer synthesis, and source citations. | Python, FAISS, Sentence Transformers, HuggingFace, Streamlit, LLMs |
-| 🧠 [Local SLM Chatbot — Powered by Ollama](https://ollama-chatbot-project.streamlit.app/) | Fully local chatbot with streaming responses, persistent chat history, multi-model support, and private on-device inference. | Python, Streamlit, Ollama, REST APIs |
+| 🧠 [Local SLM Chatbot - Powered by Ollama](https://ollama-chatbot-project.streamlit.app/) | Fully local chatbot with streaming responses, persistent chat history, multi-model support, and private on-device inference. | Python, Streamlit, Ollama, REST APIs |
 | 🧪 [Diabetic Retinopathy Classification](https://retinoai.onrender.com/) | Deep learning-based retinal disease classifier with 90.9% accuracy, Flask REST API, prediction dashboard, and chatbot assistance. | Python, TensorFlow, Keras, Flask, HTML/CSS, JavaScript |
 | 🌿 [Cassava Disease Classification](https://casssava-disease-classification.streamlit.app/) | Real-time plant disease detection using CNN and transfer learning for cassava leaf classification. | Python, TensorFlow, Flask, CNN |
 | 🛡️ [Harbor JSON Field Cleaner](https://github.com/14Aparajita/harbor-json-field-cleaner) | Containerized benchmark task for automated JSON cleaning with validation, testing, and reward-based evaluation. | Docker, Bash, jq, JSON, Harbor |
-| 💓 [LifeSupport — Organ Donation Platform](https://github.com/14Aparajita/Lifesupport) | Full-stack organ donation platform with authentication, role-based access, and MySQL-backed data management. | Node.js, Express, MySQL |
+| 💓 [LifeSupport - Organ Donation Platform](https://github.com/14Aparajita/Lifesupport) | Full-stack organ donation platform with authentication, role-based access, and MySQL-backed data management. | Node.js, Express, MySQL |
 
 
 
