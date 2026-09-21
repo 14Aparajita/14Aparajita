@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <h1 align="center">
-  Hey there! I'm <a href="#"> <span style="color:#00ADB5;"> Aparajita </span>  </a> Vaish<span>&#128075;</span>
+  Hey there! I'm <a href="#"> <span style="color:#00ADB5;">Aparajita</span></a>Vaish<span>&#128075;</span>
 </h1>
 
 <p align="center">
